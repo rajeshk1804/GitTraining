@@ -1,1 +1,2 @@
-First line in color.
+First line in color
+Second line in color
