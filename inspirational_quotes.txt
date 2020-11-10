@@ -1,5 +1,1 @@
-
-First line in Master
-
-
-
+First line in Master.
